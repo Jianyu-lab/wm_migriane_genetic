@@ -23,7 +23,7 @@ The scripts rely on the following software tools:
 - **pleiofdr**: <https://github.com/precimed/pleiofdr>
 - **FOCUS**: <https://github.com/bogdanlab/focus>
 - **SUPERGNOVA**: <https://github.com/qlu-lab/SUPERGNOVA>
-- **FUMA**: <https://fuma.ctglab.nl/> (web-based application, used post-analysis)
+- **FUMA**: <https://fuma.ctglab.nl/> (web-based application)
 
 <br />
 
